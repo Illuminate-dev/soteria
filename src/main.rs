@@ -1,0 +1,4 @@
+
+fn main() {
+    soteria::run();
+}
